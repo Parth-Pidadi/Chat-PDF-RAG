@@ -8,7 +8,7 @@ from vectorDB import collection
 import openai
 
 
-openai.api_key = "your OPEN API Key"
+openai.api_key = " OPEN API Key"
 # Initialize Redis client
 PROMPT_Q = "prompt_queue"
 RES_Q = "result_queue"
